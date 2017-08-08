@@ -4,7 +4,7 @@ Use Vagrant to init virtualbox with Ubuntu16.04
 
 ## Requirements
 ### Necessary
-* [Undertand Ansible and Vagrant]<https://oliverveits.wordpress.com/2015/11/09/it-automation-a-hello-world-example-using-ansible-on-docker/>
+* [Undertand Ansible and Vagrant](https://oliverveits.wordpress.com/2015/11/09/it-automation-a-hello-world-example-using-ansible-on-docker/)
 * Vagrant > 1.8.1
 * Virtualbox
 
